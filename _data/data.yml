@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: nuntikorn.kit@gistda.or.th
     phone: +66 61 418 4402
-    timezone: Asia/Bangkok Timezone
+    timezone: #Asia/Bangkok Timezone
     citizenship:
     website: nkitratporn.github.io #do not add http://
     linkedin: nkitratporn
@@ -23,11 +23,11 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@whainbdimhw'
+    twitter: #'@whainbdimhw'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1IRrUXrLOMol9hix43OcbCcGjX-NZ0yzY/view?usp=sharing
 
     languages:
       title: Languages
@@ -41,17 +41,17 @@ sidebar:
         - idiom: Japanese
           level: Very Beginner
 
-    interests:
-      title: Interests
-      info:
-        - item: Hiking
-          link:
+    #interests:
+    #  title: Interests
+    #  info:
+    #    - item: Hiking
+    #      link:
 
-        - item: Reading
-          link:
+ #       - item: #Reading
+ #         link:
 
-        - item: 
-          link:
+ #       - item: 
+  #        link:
 
 career-profile:
     title: Career Profile
@@ -103,7 +103,7 @@ experiences:
         time: 2021 - Present
         company: Geo-informatics and Space Technology Development Agency (GISTDA), Thailand
         details: |
-          Manage project and develop geo-informatic solution for various applications. The key projects include...
+          Manage project and develop geo-informatic solution for various applications.
             - Developing spatial models for active fire clustering and fire spread prediction
             - Analysing teleconnection between drought and oceanographic indices
             - Exploring GEMS utilization for research on the atmospheric pollution
@@ -111,7 +111,7 @@ experiences:
         time: 2012 - 2014
         company: Unilever, Thailand
         details: |
-          Rotated to different functions within Unilever's supply chain and led at least 6 continuous improvement projects each year. The key projects include...
+          Rotated to different functions within Unilever's supply chain and led at least 6 continuous improvement projects each year.
             - Expanded outlet distribution by mapping and analyzing outlet data via GIS technology
             - Reduced inventory holding for Ice-cream plant from 210 to 115 million Thai Baht
             - Created business case and received Capital Expenditure for end-of-line automation
@@ -119,8 +119,8 @@ experiences:
         time: 2009 - 2010
         company: Brigham Young University-Hawaii, USA
         details: |
-            Led an IT Operation departmental audit evaluating technical equipment purchasing and distribution processes,
-            software license compliance, and budget usage. Implemented and executed audit plans for departmental reviews to assure compliance with University policies,
+            Led an IT departmental audit evaluating technical equipment purchasing and distribution processes,
+            software license compliance, and budget usage. Implemented and executed audit plans to assure compliance with University policies,
             government regulations, and IT best practices.
 #            - Bullet point
 #            - Bullet point
@@ -129,25 +129,21 @@ projects:
     intro: >
       Here are some on-going and past projects.
     assignments:
-      - title: Aerosol classification and transport direction to identify source-sink 
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: GEMS 
+        link: "#"
+        tagline: "Aerosol classification and transport direction to identify source-sink"
 
-      - title: DevStudio
+      - title: Forest Fire
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Wildlife Habitat & Biodiversity
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: RS for Infrastructure Management
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -171,27 +167,27 @@ publications:
         authors: Nuntikorn Kitratporn, Wataru Takeuchi, Koji Matsumoto, and Kohei Nagai
         conference: "Journal of Disaster Research, 13(1), pp.40-49, 2018"
 
-skills:
-    title: #Skills &amp; Proficiency
+#skills:
+#    title: #Skills &amp; Proficiency
 
-    toolset:
-      - name: #Python & Django
-        level: #98%
+#    toolset:
+#      - name: #Python & Django
+#        level: #98%
 
-      - name: #Javascript & jQuery
-        level: #98%
+ #     - name: #Javascript & jQuery
+ #       level: #98%
 
-      - name: #Angular
-        level: #98%
+ #     - name: #Angular
+ #       level: #98%
 
-      - name: #HTML5 & CSS
-        level: #95%
+ #     - name: #HTML5 & CSS
+ #       level: #95%
 
-      - name: #Ruby on Rails
-        level: #85%
+ #     - name: #Ruby on Rails
+ #       level: #85%
 
-      - name: #Sketch & Photoshop
-        level: #60%
+ #     - name: #Sketch & Photoshop
+ #       level: #60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
