@@ -126,8 +126,8 @@ experiences:
 #            - Bullet point
 projects:
     title: Projects
-    intro: >
-      Here are some on-going and past projects.
+ #   intro: >
+ #     Here are some on-going and past projects.
     assignments:
       - title: GEMS 
         link: "#"
@@ -147,10 +147,10 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+ #   intro: |
+ #     You can list your publications in this section. Lorem ipsum dolor sit
+ #     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+ #     bibendum fringilla a eu lectus.
     papers:
       - title: "Human-elephant conflict risk assessment under coupled climatic and anthropogenic changes in Thailand"
         link: "https://doi.org/10.1016/j.scitotenv.2022.155174"
