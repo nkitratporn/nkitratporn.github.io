@@ -3,16 +3,16 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Nuntikorn Kitratporn (Tita)
+    name: Nuntikorn Kitratporn
     tagline: Geo-informatic Scientist
     avatar: tita_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: nuntikorn.kit@gistda.or.th
     phone: +66 61 418 4402
     timezone: Asia/Bangkok Timezone
     citizenship:
@@ -39,7 +39,7 @@ sidebar:
           level: Professional
 
         - idiom: Japanese
-          level: Beginner
+          level: Very Beginner
 
     interests:
       title: Interests
@@ -56,18 +56,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A dedicated and capable researcher with a strong interest in remote sensing and artificial intelligent applications for conservation,
+      biodiversity, and green infrastructure.
+      Experienced in spatial data analysis and visulaization. Proficient in an array of GIS software and programming languages,
+      including QGIS, R, and JavaScript. Can work independently and in team-setting with people from diverse cultures.
 education:
     title: Education
     info:
       - degree: PhD in Environmental Sciences
         university: University of Tokyo
-        time: 2019 - 2021
+        time: 2018 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,7 +76,7 @@ education:
             - Bullet point
       - degree: MSc in Engineering
         university: University of Tokyo
-        time: 2011 - 2012
+        time: 2015 - 2017
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -87,9 +85,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Information System & Technology
+        university: Brigham Young University-Hawaii
+        time: 2005 - 2009
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -101,43 +99,37 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Geo-informatic Scientist
+        time: 2021 - Present
+        company: Geo-informatics and Space Technology Development Agency (GISTDA), Thailand
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Manage project and develop geo-informatic solution for various applications which include
+          developing spatial models for active fire clustering and fire spread prediction, analysing teleconnection between drought and oceanographic indices, 
+          and exploring GEMS utilization for research on the atmospheric pollution.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+      - role: Management - Supply Chain
         time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        company: Unilever, Thailand
+ #       details: |
+ #         Describe your role here lorem ipsum dolor sit amet, consectetuer
+ #         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+ #         Cum sociis natoque penatibus et magnis dis parturient montes,
+ #         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+ #         pellentesque eu, pretium quis, sem.
+ #           - Bullet point
+ #           - Bullet point
+      - role: Associate Supervising IT Auditor
+        time: 2009 - 2010
+        company: Brigham Young University-Hawaii, USA
+#        details: |
+#          Describe your role here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#          Cum sociis natoque penatibus et magnis dis parturient montes,
+#          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#          pellentesque eu, pretium quis, sem.
+#            - Bullet point
+#            - Bullet point
 projects:
     title: Projects
     intro: >
