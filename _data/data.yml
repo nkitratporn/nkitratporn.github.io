@@ -103,7 +103,7 @@ experiences:
         time: 2021 - Present
         company: Geo-informatics and Space Technology Development Agency (GISTDA), Thailand
         details: |
-          Manage project and develop geo-informatic solution for various applications which include
+          Manage project and develop geo-informatic solution for various applications. The key projects include...
             - Developing spatial models for active fire clustering and fire spread prediction
             - Analysing teleconnection between drought and oceanographic indices
             - Exploring GEMS utilization for research on the atmospheric pollution
@@ -111,28 +111,25 @@ experiences:
         time: 2012 - 2014
         company: Unilever, Thailand
         details: |
-          Rotated to different functions within Unilever's supply chain and led at least 6 continuous improvement projects each year. The 
-            - Bullet point
-            - Bullet point
+          Rotated to different functions within Unilever's supply chain and led at least 6 continuous improvement projects each year. The key projects include...
+            - Expanded outlet distribution by mapping and analyzing outlet data via GIS technology
+            - Reduced inventory holding for Ice-cream plant from 210 to 115 million Thai Baht
+            - Created business case and received Capital Expenditure for end-of-line automation
       - role: Associate Supervising IT Auditor
         time: 2009 - 2010
         company: Brigham Young University-Hawaii, USA
-#        details: |
-#          Describe your role here lorem ipsum dolor sit amet, consectetuer
-#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#          Cum sociis natoque penatibus et magnis dis parturient montes,
-#          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#          pellentesque eu, pretium quis, sem.
+        details: |
+            Led an IT Operation departmental audit evaluating technical equipment purchasing and distribution processes,
+            software license compliance, and budget usage. Implemented and executed audit plans for departmental reviews to assure compliance with University policies,
+            government regulations, and IT best practices.
 #            - Bullet point
 #            - Bullet point
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are some on-going and past projects.
     assignments:
-      - title: Velocity
+      - title: Aerosol classification and transport direction to identify source-sink 
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
