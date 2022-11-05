@@ -121,8 +121,7 @@ experiences:
         company: Brigham Young University-Hawaii, USA
         details: |
             Led an IT departmental audit evaluating technical equipment purchasing and distribution processes,
-            software license compliance, and budget usage. Implemented and executed audit plans to assure compliance with University policies,
-            government regulations, and IT best practices.
+            software license compliance, and budget usage.
 #            - Bullet point
 #            - Bullet point
 projects:
@@ -142,7 +141,7 @@ projects:
       - title: Wildlife Habitat & Biodiversity
         l#ink: "#"
         tagline: "This project aimed to understand spatio-temporal distribution of Asian Elephant in Thailand at the natural-agircultural land interface.
-        A framework was developed to assess human-elephant interaction at the present and future using RS data with spatial model and climate projection."
+        A framework was developed to assess the distribution of human-elephant conflict risk at the present and future using RS data, spatial model and climate projection."
 
       - title: Infrastructure Management
         #link: "#"
