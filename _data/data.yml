@@ -8,10 +8,11 @@ sidebar:
 
     # Profile information
     name: Nuntikorn Kitratporn
-    tagline: Geo-informatic Scientist
+    tagline: Geo-informatics Scientist
     avatar: tita_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+    download: Tita_Card.vcf #vcard
     email: nuntikorn.kit@gistda.or.th
     phone: +66 61 418 4402
     timezone: #Asia/Bangkok Timezone
@@ -27,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1IRrUXrLOMol9hix43OcbCcGjX-NZ0yzY/view?usp=sharing
+    pdf: #https://drive.google.com/file/d/1IRrUXrLOMol9hix43OcbCcGjX-NZ0yzY/view?usp=sharing
 
     languages:
       title: Languages
@@ -39,7 +40,7 @@ sidebar:
           level: Professional
 
         - idiom: Japanese
-          level: Very Beginner
+          level: Beginner
 
     #interests:
     #  title: Interests
