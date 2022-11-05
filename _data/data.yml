@@ -131,20 +131,23 @@ projects:
  #     Here are some on-going and past projects.
     assignments:
       - title: GEMS 
-        link: "#"
-        tagline: "Aerosol classification and transport direction to identify source-sink"
+        #link: "#"
+        tagline: "This project explores potential application using Aerosol product from Geostationary Environment Monitoring Spectrometer to classify
+        aerosol type and identify transport direction."
 
       - title: Forest Fire
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        #link: "#"
+        tagline: "This project added value to active fire hotspot product by modeling fire cluster and predicting fire spread."
 
       - title: Wildlife Habitat & Biodiversity
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        l#ink: "#"
+        tagline: "This project aimed to understand spatio-temporal distribution of Asian Elephant in Thailand especially at the natural-agircultural land interface.
+        A framework was developed to assess human-elephant interaction at the present and future using RS data with spatial model and climate projection."
 
-      - title: RS for Infrastructure Management
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Infrastructure Management
+        #link: "#"
+        tagline: "This project evaluated the performance of low-cost solution for bridge maintenance inspection, specifically the inclination of suspension bridges.
+        Structure-from-Motion (SfM) and Terrestrial Laser Scanner (TLS) technology were explored."
 
 publications:
     title: Publications
